@@ -7,7 +7,7 @@ import ambutrack from '../../Assets/Projects/ambutrack.png.png'
 import blood from '../../Assets/Projects/blood-bank.png.png'
 import codeforces from '../../Assets/Projects/codeforces.png.png'
 import portfolio from '../../Assets/Projects/3d-portfolio.png.png'
-function projects(){
+function Projects(){
   return (
     <Container fluid className="project-section">
       <Particle/>
@@ -50,4 +50,4 @@ function projects(){
     </Container>
   )
 }
-export default projects;
+export default Projects;
