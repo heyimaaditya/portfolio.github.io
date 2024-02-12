@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import ProjectCard from "./ProjectCards";
+import ProjectCard from "./ProjectsCards";
 import Particle from "../Particle";
 import expense from '../../Assets/Projects/expense-mangement.png.png';
 import ambutrack from '../../Assets/Projects/ambutrack.png.png'
